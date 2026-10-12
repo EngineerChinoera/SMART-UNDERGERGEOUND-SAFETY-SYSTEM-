@@ -81,3 +81,8 @@ The assembled prototype integrates an ESP32-based monitoring system with environ
 Figure 1: Helmet-mounted hardware prototype of the Smart Underground Safety and Communication System.
 
  ![Helmet prototype](helmet-prototype.jpg)
+ Project Demonstration Video
+
+Watch the demonstration of the assembled prototype, live sensor readings, and emergency alert functionality.
+
+Video: "Watch the project demonstration(https://youtube.com/shorts/CUFU9I08kGI?si=Zbs8yiLi4jTnBFIZ)
