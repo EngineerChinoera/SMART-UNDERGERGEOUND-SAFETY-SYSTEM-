@@ -81,6 +81,19 @@ The assembled prototype integrates an ESP32-based monitoring system with environ
 Figure 1: Helmet-mounted hardware prototype of the Smart Underground Safety and Communication System.
 
  ![Helmet prototype](helmet-prototype.jpg)
+ Hardware Prototype and Test Results
+
+1. Helmet-Mounted Prototype
+
+The prototype integrates the ESP32 development board with environmental sensors, an ultrasonic distance sensor, a GPS module, and local alert components.
+
+2. Live Sensor Monitoring
+
+The OLED display presents real-time sensor readings and system status. In the photograph below, the system displays temperature, humidity, ultrasonic distance, gas sensor ADC readings, and GPS search status.
+
+Note: The displayed gas value is a raw ADC reading, not a calibrated gas concentration. The GPS was searching for a satellite fix at the time this photograph was taken.
+
+[OLED sensor readings](oled-sensor-readings.jpg)
  Project Demonstration Video
 
 Watch the demonstration of the assembled prototype, live sensor readings, and emergency alert functionality.
