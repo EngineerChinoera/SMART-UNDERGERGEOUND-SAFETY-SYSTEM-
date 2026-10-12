@@ -74,3 +74,10 @@ Project Status
 Final-year engineering project — prototype built, tested, and demonstrated.
 
 Note: This is just an Academic project l did.
+Hardware Prototype
+
+The assembled prototype integrates an ESP32-based monitoring system with environmental sensors, ultrasonic distance measurement, GPS positioning, an OLED display, and local LED/buzzer alerts. A manual SOS button allows the user to trigger an emergency alert.
+
+Figure 1: Helmet-mounted hardware prototype of the Smart Underground Safety and Communication System.
+
+"Helmet-mounted hardware prototype" (Helmet prototype.jpg)
